@@ -31,7 +31,7 @@ Consider a system of *n* dimensions which can be represented by the set
 of Cartesian coordinates
 
 <p align="center">
-![image](1.png) 
+<img src ="1.png"> 
 </p>
 
 where each of the partial derivatives comes from the definition of the
@@ -41,7 +41,7 @@ coordinate is held fixed. For our two-dimensional problem, we can expand
 these sums to yield the following expressions for the metric tensors.\
 
 <p align="center">
-![image](2.png)
+<img src = "2.png" >
 </p>
 
 Elliptic Mesh Generation Algorithm
@@ -55,7 +55,7 @@ within the boundaries. This algorithm works by iteratively solving the
 parametric vector equation.
 
 <p align="center">
-![image](3.png)
+<img src = "3.png">
 </p>
 
 where and represent parameters in the original domain and $\vec{l}$,
@@ -67,7 +67,7 @@ At the heart of the solver is the mesh smoothing algorithm, which at a
 high level, works by solving the pair of Laplace equations\
 
 <p align="center">
-![image](4.png)
+<img src = "4.png">
 </p>
 
 where $\xi$ and $\eta$ represent the x and y coordinates of every point
@@ -79,7 +79,7 @@ solution space. Using tensor mathematics, it can be shown that this
 problem entails solving the equations.\
 
 <p align="center">
-![image](5.png)
+<img src = "5.png">
 </p>
 
 where $g_{ij}$ is the covariant metric tensor at entry (i,j) within the
@@ -95,7 +95,7 @@ as they are a function of these derivatives), thereby resulting in the
 equations (for a single node):
 
 <p align="center">
-![image](6.png)
+<img src = "6.png">
 </p>
 
 where i and j are the coordinates of a node in the mesh in computational
@@ -177,7 +177,7 @@ Mathematical libraries like **JMathPlot**(as **org.jar** here) as
 Referenced libraries for plotting and for numerical computation.
 
 <p align="center">
-![image](7.png)
+<img src = "7.png" >
 </p>
 
 Results and Discussions
