@@ -30,7 +30,9 @@ specifications.\
 Consider a system of *n* dimensions which can be represented by the set
 of Cartesian coordinates
 
-![image](1.png) [fig:universe]
+<p align="center">
+![image](1.png) 
+</p>
 
 where each of the partial derivatives comes from the definition of the
 covariant base vectors. Each of these base vectors describe how one
@@ -38,7 +40,9 @@ coordinate system changes with respect to another, when any particular
 coordinate is held fixed. For our two-dimensional problem, we can expand
 these sums to yield the following expressions for the metric tensors.\
 
-![image](2.png) [fig:universe]
+<p align="center">
+![image](2.png)
+</p>
 
 Elliptic Mesh Generation Algorithm
 ==================================
@@ -50,7 +54,9 @@ the domain (regardless of the boundaries) to a new domain existing
 within the boundaries. This algorithm works by iteratively solving the
 parametric vector equation.
 
-![image](3.png) [fig:universe]
+<p align="center">
+![image](3.png)
+</p>
 
 where and represent parameters in the original domain and $\vec{l}$,
 $\vec{t}$, $\vec{b}$ and $\vec{r}$ represent the curves defining the
@@ -60,7 +66,9 @@ intersection between curve and $\vec{i}$, $\vec{j}$\
 At the heart of the solver is the mesh smoothing algorithm, which at a
 high level, works by solving the pair of Laplace equations\
 
-![image](4.png) [fig:universe]
+<p align="center">
+![image](4.png)
+</p>
 
 where $\xi$ and $\eta$ represent the x and y coordinates of every point
 in the target domain, mapped to a transformed, computational space using
@@ -70,7 +78,9 @@ where we transition from the computational space to the curvilinear
 solution space. Using tensor mathematics, it can be shown that this
 problem entails solving the equations.\
 
-![image](5.png) [fig:universe]
+<p align="center">
+![image](5.png)
+</p>
 
 where $g_{ij}$ is the covariant metric tensor at entry (i,j) within the
 matrix of covariant tensor components defining the mapping of the
@@ -84,7 +94,9 @@ finite differences on the partial derivatives (and tensor coefficients,
 as they are a function of these derivatives), thereby resulting in the
 equations (for a single node):
 
-![image](6.png) [fig:universe]
+<p align="center">
+![image](6.png)
+</p>
 
 where i and j are the coordinates of a node in the mesh in computational
 space. Here $\Delta \xi$and $\Delta \eta$ are equal increments in $\xi$
@@ -164,7 +176,9 @@ boundary cases.
 Mathematical libraries like **JMathPlot**(as **org.jar** here) as
 Referenced libraries for plotting and for numerical computation.
 
-![image](7.png) [fig:universe]
+<p align="center">
+![image](7.png)
+</p>
 
 Results and Discussions
 =======================
@@ -175,9 +189,13 @@ smooth boundaries are present, a split point has to be chosen, so as to
 create the four boundaries. This point is generally at $x = a/2$ where
 *a* is the semi-major axis length.
 
-![image](transfinite.png) [fig:universe]
+<p align="center">
+![image](transfinite.png)
+</p>
 
+<p align="center">
 ![image](final.png) [fig:universe]
+</p>
 
 Mesh Quality report for 4 X 4 resolution
 ----------------------------------------
@@ -263,9 +281,14 @@ Mesh Quality report for 4 X 4 resolution
         -   The standard deviation of all aspect ratios is:
             0.3527840284371575
 
-![image](finer-transfinite.png) [fig:universe]
 
-![image](finer-final.png) [fig:universe]
+<<p align="center">
+![image](finer-transfinite.png)
+</p>
+
+<p align="center">
+![image](finer-final.png)
+</p>
 
 Mesh Quality report for 2 X 2 resolution
 ----------------------------------------
