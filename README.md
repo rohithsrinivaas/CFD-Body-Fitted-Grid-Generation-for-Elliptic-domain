@@ -205,33 +205,33 @@ Mesh Quality report for 4 X 4 resolution
     -   Boundary Angles
 
         -   The standard deviation of all boundary angles is:
-            2.412145192252833$^{\circ}$
+            2.412145192252833 deg
 
-        -   The mean boundary angle is: 94.69510733620636$^{\circ}$
+        -   The mean boundary angle is: 94.69510733620636 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            boundary is: 56.867308795456815$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            boundary is: 56.867308795456815 deg
 
-        -   The corresponding angle is: 33.132691204543185$^{\circ}$ and
+        -   The corresponding angle is: 33.132691204543185 deg and
             is located at position: [0, 8]
 
-        -   The percent of angles within 10$^{\circ}$ of 90$^{\circ}$ on
+        -   The percent of angles within 10 deg of 90 deg on
             the boundary is: 56.25 %
 
     -   Interior angles
 
         -   The standard deviation of all interior angles is:
-            1.0413714606748834$^{\circ}$
+            1.0413714606748834 deg
 
-        -   The mean interior angle is: 92.12785308218719$^{\circ}$
+        -   The mean interior angle is: 92.12785308218719 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            interior is: 55.89652205783994$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            interior is: 55.89652205783994 deg
 
-        -   The corresponding angle is: 34.10347794216006$^{\circ}$ and
+        -   The corresponding angle is: 34.10347794216006 deg and
             is located at position: [1, 8]
 
-        -   The percent of angles within 10$^{\circ}$ of 90$^{\circ}$ on
+        -   The percent of angles within 10 deg of 90 deg on
             the interior is: 48.4375 %
 
     -   Aspect ratio
@@ -248,30 +248,30 @@ Mesh Quality report for 4 X 4 resolution
     -   Boundary Angles
 
         -   The standard deviation of all boundary angles is:
-            2.578732547131888$^{\circ}$
+            2.578732547131888 deg
 
-        -   The mean boundary angle is: 93.07141464775451$^{\circ}$
+        -   The mean boundary angle is: 93.07141464775451 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            boundary is: 53.15052220555345$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            boundary is: 53.15052220555345 deg
 
-        -   The corresponding angle is: 36.84947779444655$^{\circ}$ and
+        -   The corresponding angle is: 36.84947779444655 deg and
             is located at position: [0, 8] The percent of angles within
-            10 deg of 90$^{\circ}$ on the boundary is: 56.25 %
+            10 deg of 90 deg on the boundary is: 56.25 %
 
     -   Interior Angles
 
         -   The standard deviation of all interior angles is:
-            0.8789846429198418$^{\circ}$
+            0.8789846429198418 deg
 
-        -   The mean interior angle is: 95.4981186288393$^{\circ}$
+        -   The mean interior angle is: 95.4981186288393 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            interior is: 36.63218456011564$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            interior is: 36.63218456011564 deg
 
-        -   The corresponding angle is: 53.36781543988436$^{\circ}$ and
+        -   The corresponding angle is: 53.36781543988436 deg and
             is located at position: [1, 8] The percent of angles within
-            10$^{\circ}$ of 90$^{\circ}$ on the interior is:
+            10 deg of 90 deg on the interior is:
             55.729166666666664 %
 
     -   Aspect ratios
@@ -298,33 +298,33 @@ Mesh Quality report for 2 X 2 resolution
     -   Boundary Angles
 
         -   The standard deviation of all boundary angles is:
-            1.6913003493993906$^{\circ}$
+            1.6913003493993906 deg
 
-        -   The mean boundary angle is: 95.47273957497313$^{\circ}$
+        -   The mean boundary angle is: 95.47273957497313 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            boundary is: 63.2461081175267$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            boundary is: 63.2461081175267 deg
 
-        -   The corresponding angle is: 26.753891882473297$^{\circ}$ and
+        -   The corresponding angle is: 26.753891882473297 deg and
             is located at position: [0,16]
 
-        -   The percent of angles within 10$^{\circ}$ of 90$^{\circ}$ on
+        -   The percent of angles within 10 deg of 90 deg on
             the boundary is: 57.6530612244898 %
 
     -   Interior angles
 
         -   The standard deviation of all interior angles is:
-            0.5182833312075722$^{\circ}$
+            0.5182833312075722 deg
 
-        -   The mean interior angle is: 93.08632549460636$^{\circ}$
+        -   The mean interior angle is: 93.08632549460636 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            interior is: 62.829524417793834$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            interior is: 62.829524417793834 deg
 
-        -   The corresponding angle is: 27.17047558220617$^{\circ}$ and
+        -   The corresponding angle is: 27.17047558220617 deg and
             is located at position: [1,16]
 
-        -   The percent of angles within 10$^{\circ}$ of 90$^{\circ}$ on
+        -   The percent of angles within 10 deg of 90 deg on
             the interior is: 51.770095793419415 %
 
     -   Aspect ratio
@@ -341,30 +341,30 @@ Mesh Quality report for 2 X 2 resolution
     -   Boundary Angles
 
         -   The standard deviation of all boundary angles is:
-            2.578732547131888$^{\circ}$
+            2.578732547131888 deg
 
-        -   The mean boundary angle is: 93.07141464775451$^{\circ}$
+        -   The mean boundary angle is: 93.07141464775451 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            boundary is: 53.15052220555345$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            boundary is: 53.15052220555345 deg
 
-        -   The corresponding angle is: 36.84947779444655$^{\circ}$ and
+        -   The corresponding angle is: 36.84947779444655 deg and
             is located at position: [0, 8] The percent of angles within
-            10 deg of 90$^{\circ}$ on the boundary is: 56.25 %
+            10 deg of 90 deg on the boundary is: 56.25 %
 
     -   Interior Angles
 
         -   The standard deviation of all interior angles is:
-            0.8789846429198418$^{\circ}$
+            0.8789846429198418 deg
 
-        -   The mean interior angle is: 95.4981186288393$^{\circ}$
+        -   The mean interior angle is: 95.4981186288393 deg
 
-        -   The maximum deviation of all angles from 90$^{\circ}$ on the
-            interior is: 36.63218456011564$^{\circ}$
+        -   The maximum deviation of all angles from 90 deg on the
+            interior is: 36.63218456011564 deg
 
-        -   The corresponding angle is: 53.36781543988436$^{\circ}$ and
+        -   The corresponding angle is: 53.36781543988436 deg and
             is located at position: [1, 8] The percent of angles within
-            10$^{\circ}$ of 90$^{\circ}$ on the interior is:
+            10 deg of 90 deg on the interior is:
             55.729166666666664 %
 
     -   Aspect ratios
