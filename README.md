@@ -190,11 +190,11 @@ create the four boundaries. This point is generally at $x = a/2$ where
 *a* is the semi-major axis length.
 
 <p align="center">
-![image](transfinite.png)
+<img src = "transfinite.png" >
 </p>
 
 <p align="center">
-![image](final.png) [fig:universe]
+<img src = "final.png" >
 </p>
 
 Mesh Quality report for 4 X 4 resolution
@@ -283,11 +283,11 @@ Mesh Quality report for 4 X 4 resolution
 
 
 <<p align="center">
-![image](finer-transfinite.png)
+<img src = "finer-transfinite.png" >
 </p>
 
 <p align="center">
-![image](finer-final.png)
+<img src = "finer-final.png">
 </p>
 
 Mesh Quality report for 2 X 2 resolution
